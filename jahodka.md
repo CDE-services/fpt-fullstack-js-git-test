@@ -5,10 +5,9 @@
 ### jahodulienka
 
 jahodka malinka melonik
+toto je super ovocicko
 
-fjkdlsfjksdljj jofl **jsdlkf** jakl fjdkls fjkl jklfjasd
-
-jfdklsjf klsdaj fkldja fkljsda klf
+jfdklsjf klsdaj fkldja **fkljsda** klf
 
 * fjklsdfa
 * jkfdjklfa
